@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="567.0" prefWidth="730.0" stylesheets="@../music/Style.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.music.SignUpController">
+   <children>
+      <Circle layoutX="365.0" layoutY="284.0" radius="261.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="#ab0b0b" layoutX="365.0" layoutY="284.0" radius="193.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label fx:id="signLb" layoutX="304.0" layoutY="110.0" prefHeight="35.0" prefWidth="123.0" text="SIGN UP">
+         <font>
+            <Font name="Rockwell Extra Bold" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfEmail" layoutX="248.0" layoutY="277.0" prefHeight="29.0" prefWidth="217.0" promptText="Email">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tfPassword" layoutX="248.0" layoutY="318.0" prefHeight="29.0" prefWidth="217.0" promptText="Password">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+      <Button fx:id="btnSign" layoutX="304.0" layoutY="413.0" mnemonicParsing="false" onAction="#btnSignUpClick" prefHeight="29.0" prefWidth="110.0" text="Sign up">
+         <font>
+            <Font name="Rockwell Extra Bold" size="18.0" />
+         </font>
+      </Button>
+      <TextField fx:id="tfName" layoutX="248.0" layoutY="163.0" prefHeight="29.0" prefWidth="217.0" promptText="Name">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tfSurname" layoutX="248.0" layoutY="201.0" prefHeight="29.0" prefWidth="217.0" promptText="Surname">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tfNumber" layoutX="248.0" layoutY="238.0" prefHeight="29.0" prefWidth="217.0" promptText="Phone number">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tfRepeat" layoutX="248.0" layoutY="356.0" prefHeight="29.0" prefWidth="217.0" promptText="Repeat password">
+         <font>
+            <Font name="Rockwell Extra Bold" size="14.0" />
+         </font>
+      </TextField>
+   </children>
+</AnchorPane>

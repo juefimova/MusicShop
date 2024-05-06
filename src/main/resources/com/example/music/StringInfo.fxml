@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="root" prefHeight="315.0" prefWidth="561.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.music.StringInfo">
+   <children>
+      <ListView fx:id="lvStringInfo" layoutX="7.0" layoutY="7.0" prefHeight="302.0" prefWidth="546.0" />
+   </children>
+</AnchorPane>

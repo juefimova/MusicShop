@@ -1,0 +1,79 @@
+#btnSign {
+-fx-background-color:#5f0010;
+-fx-text-fill:black;
+}
+#btnLog {
+-fx-background-color:#5f0010;
+-fx-text-fill:black;
+}
+#pane {
+-fx-background-color:white;
+}
+.text-field {
+-fx-background-color:white;
+-fx-text-fill:#878995;
+}
+.label {
+-fx-text-fill:black;
+}
+#forgot {
+-fx-background-color:#ab0b0b;
+-fx-text-fill:black;
+}
+#SignUp {
+-fx-background-color:#ab0b0b;
+-fx-text-fill:black;
+}
+#errorPane {
+-fx-background-color:#5f0010;
+}
+#OK {
+-fx-background-color:black;
+-fx-text-fill:#2594f7;
+}
+.button {
+-fx-background-color:#5f0010;
+-fx-text-fill:black;
+}
+#homePane1 {
+-fx-background-color:#5f0010;
+}
+#homePane2 {
+-fx-background-color:#5f0010;
+}
+#holderPane {
+-fx-background-color:#FDDDD5;
+}
+#forgotPane {
+
+-fx-background-color:#FDDDD5;
+}
+#forgotOK {
+-fx-background-color:#5f0010;
+
+}
+#forgotEmail {
+-fx-background-color:#5f0010;
+
+}
+
+
+
+.context-menu {
+-fx-background-color:#5f0010;
+-fx-text-fill:black;
+}
+.menu-button {
+-fx-background-color:#5f0010;
+}
+.menu-item .label {
+-fx-padding:#5f0010;
+-fx-padding:#5f0010;
+}
+.menu-button > .arrow-button {
+-fx-padding: 0;
+}
+
+.menu-button > .arrow-button > .arrow {
+-fx-padding: 0;
+}

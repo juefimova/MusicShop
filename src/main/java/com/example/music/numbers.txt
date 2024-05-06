@@ -1,0 +1,58 @@
++93
+Albania	Албания	+355
+Algeria	Алжир	+21
+American Samoa	Американское Самоа	+684
+Andorra	Андорра	+376
+Angola	Ангола	+244
+Anguilla	Anguilla	+1-264
+Antigua and Barbuda	Антигуа и Барбуда	+1-268
+Armenia	Армения	+374
+Argentina	Аргентина	+54
+Australia	Австралия	+61
+Austria	Австрия	+43
+Azerbaijan	Азербайджан	+994
+Bahamas	Багамы	+1-242
+Bahrain	Бахрейн	+973
+Bangladesh	Бангладеш	+880
+Barbados	Барбадос	+1-246
+Belarus	Белоруссия	+375
+Belgium	Бельгия	+32
+Belize	Белиз	+501
+Benin	Бенин	+229
+Bermuda	Бермудские острова	+1-441
+Bolivia	Боливия	+591
+Bosnia and Herzegovina	Босния и Герцеговина	+387
+Botswana	Ботсвана	+267
+Brazil	Бразилия	+55
+British Virgin Islands	British Virgin Islands	+1-284
+Brunei Darusalaam	Бруней Даруэсалаам	+673
+Bulgaria	Болгария	+359
+Burkina Faso	Буркина Фасо	+226
+Burundi	Бурунди	+257
+Byelorussian	Россия	+7
+Cambodia	Камбоджа	+855
+Cameroon	Камерун	+237
+Canada	Канада	+1
+Cape Verde	Капе верде	+238
+Cayman Islands	Каймановы острова	+1-345
+Central African Republic	Центрально африканская республика	+236
+Chad	Чад	+235
+Chile	Чили	+56
+China	Китай	+86
+Christmas Island	Рождественсткие острова	+672
+Cocos Islands	Кокосовые острова	+672
+Colombia	Колумбия	+57
+Commonwealth of the Northern Mariana Islands	Содружество северных Марианских островов	+1-670
+Comoros and Mayotte Island	Коморские и майотские(?) острова	+269
+Congo	Конго	+242
+Cook Islands	Острова Кука	+682
+Costa Rica	Коста-Рика	+506
+Croatia	Хорватия	+385
+Cuba	Куба	+53
+Cyprus	Кипр	+357
+Czech Republic	Чешская республика	+420
++45
+
++246
++253
++1-767

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="errorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="300.0" minWidth="400.0" prefHeight="300.0" prefWidth="400.0" stylesheets="@../music/Style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.music.ErrorController">
+   <children>
+      <ImageView fitHeight="141.0" fitWidth="138.0" layoutX="36.0" layoutY="98.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Images/img.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="message" layoutX="179.0" layoutY="89.0" prefHeight="61.0" prefWidth="190.0" text="mistake((" wrapText="true">
+         <font>
+            <Font name="Rockwell Extra Bold" size="19.0" />
+         </font>
+      </Label>
+      <Button fx:id="OK" layoutX="233.0" layoutY="229.0" mnemonicParsing="false" onMouseClicked="#btnOKClicked" prefHeight="31.0" prefWidth="83.0" text="OK">
+         <font>
+            <Font name="Rockwell Extra Bold" size="17.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

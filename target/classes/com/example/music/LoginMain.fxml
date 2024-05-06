@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="567.0" prefWidth="730.0" stylesheets="@../music/Style.css" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.music.LoginMainController">
+   <children>
+      <Circle layoutX="365.0" layoutY="284.0" radius="261.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="#ab0b0b" layoutX="365.0" layoutY="284.0" radius="193.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label fx:id="loginLb" layoutX="315.0" layoutY="137.0" prefHeight="35.0" prefWidth="108.0" text="LOG IN">
+         <font>
+            <Font name="Rockwell Extra Bold" size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="email" layoutX="264.0" layoutY="207.0" prefHeight="35.0" prefWidth="217.0" promptText="Email">
+         <font>
+            <Font name="Rockwell Extra Bold" size="16.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="password" layoutX="264.0" layoutY="266.0" prefHeight="35.0" prefWidth="217.0" promptText="Password">
+         <font>
+            <Font name="Rockwell Extra Bold" size="16.0" />
+         </font>
+      </TextField>
+      <Button fx:id="btnLog" layoutX="298.0" layoutY="328.0" mnemonicParsing="false" onAction="#btnLogClick" prefHeight="37.0" prefWidth="134.0" style="-: #5f0010;" text="Log in">
+         <font>
+            <Font name="Rockwell Extra Bold" size="19.0" />
+         </font>
+      </Button>
+      <Button fx:id="forgot" layoutX="275.0" layoutY="389.0" mnemonicParsing="false" onAction="#forgotClicked" prefHeight="31.0" prefWidth="195.0" text="forgot password?" underline="true">
+         <font>
+            <Font name="Rockwell Extra Bold" size="16.0" />
+         </font>
+      </Button>
+      <Button fx:id="SignUp" layoutX="274.0" layoutY="420.0" mnemonicParsing="false" onAction="#SignUpClick" prefHeight="31.0" prefWidth="181.0" text="sign up" underline="true">
+         <font>
+            <Font name="Rockwell Extra Bold" size="16.0" />
+         </font>
+      </Button>
+      <MenuButton fx:id="menu" layoutX="291.0" layoutY="464.0" mnemonicParsing="false" text="change language">
+        <items>
+          <MenuItem fx:id="eng" mnemonicParsing="false" onAction="#engSelected" text="eng" />
+          <MenuItem fx:id="rus" mnemonicParsing="false" onAction="#rusSelected" text="rus" />
+        </items>
+         <font>
+            <Font name="Rockwell Extra Bold" size="13.0" />
+         </font>
+      </MenuButton>
+   </children>
+</AnchorPane>
