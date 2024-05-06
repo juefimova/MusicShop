@@ -26,7 +26,7 @@ The Music Store application provides a user-friendly interface for customers to 
 
 1. Clone the repository to your local machine:
 
-- git clone https://github.com/yourusername/music-store.git
+- git clone
 
 2. Import the project into IntelliJ IDEA.
 
